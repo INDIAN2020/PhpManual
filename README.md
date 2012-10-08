@@ -1,4 +1,3 @@
-PhpManual
-=========
-
-Sublime Text 2 plugin for search in php manual
+PHP Manual
+=====
+Plugin for [Sublime Text 2](http://www.sublimetext.com/2). 

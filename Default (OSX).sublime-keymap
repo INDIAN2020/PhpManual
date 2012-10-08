@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+p", "ctrl+m"], "command": "php_manual"}
+]
